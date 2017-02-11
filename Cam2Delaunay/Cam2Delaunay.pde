@@ -2,9 +2,8 @@
 /* !do not delete the line above, required for linking your tweak if you upload again */
 /* OpenProcessing Tweak of *@*http://www.openprocessing.org/sketch/117808*@* */
 /* !do not delete the line above, required for linking your tweak if you upload again */
-//Delaunay filter
-//A classic one in my own implementation.
-//Ale González, 2013
+//Delaunay filter by Ale González
+//camera support implemented by LSKA
 
 import java.util.List;
 import java.util.LinkedList;
